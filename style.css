@@ -1,0 +1,74 @@
+.top{
+    background-image: url(image/DB_2560x1600_062.webp);
+    background-color: azure;
+    background-size: cover;
+    padding: 180px 0;
+    color: aliceblue;
+    margin: 0;
+    text-align:center;
+}
+.top h1 {
+    font-size: 65px;
+    letter-spacing: 5px;
+}
+.about{
+    text-align: center;
+    background-color: azure;
+    padding: 100px;
+}
+h2{
+    margin: 0;
+}
+hr{
+    margin-bottom: 50px;
+    height: 5px;
+    width: 100px;
+    border: none;
+}
+.blue-line{
+    background-color: #7bc3d1;
+}
+.skills{
+    text-align: center;
+    padding: 50px;
+}
+.about table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+.box{
+    background: #FFFFFF;
+    border-radius: 20px;
+    padding: 40px;
+    margin: 20px;
+    text-align: center;
+}
+.box img{
+    display: block;
+    margin: auto;
+}
+.portfolio{
+    background-color: yellowgreen;
+}
+.anime{
+    text-align: center;
+}
+.page {
+    display: flex;
+    justify-content: center;
+  }
+  .box1{
+    background-color: hotpink;
+    padding: 20px 0;
+    width: 75px;
+    text-align: center;
+    border: 2px solid #333;
+  }
+  .apple{
+      display: flex;
+  }
+
+  body{
+    cursor: url(image/yadon32px.png),auto;
+  }
