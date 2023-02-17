@@ -81,7 +81,22 @@ hr{
 
   ul{
     margin: 0px;
- padding-inline-start: 0px;
+    padding-inline-start: 0px;
+  }
+
+  .test{
+    width: 300px;
+    height: 100px;
+    border: 1px solid;
+    overflow: scroll;
+    margin: 0px;
+    background-color:rgb(94, 94, 94);
+    white-space:nowrap;
+    color: ghostwhite;
+  }
+
+footer{
+  background-color: rgb(94, 94, 94);
   }
 
 /*リンクの形状*/
