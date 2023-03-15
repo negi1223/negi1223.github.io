@@ -99,6 +99,10 @@ footer{
 background-color: rgb(94, 94, 94);
 }
 
+.under{
+  border-bottom: solid 2px rgb(80, 168, 236);
+}
+
 /*リンクの形状*/
 #page-top a{
 display: flex;
